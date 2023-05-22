@@ -1,2 +1,3 @@
 # MeCoD
-The code for “Towards Alleviating the Object Bias in Prompt Tuning-based Factual Knowledge Extraction." in ACL2023 Findings
+
+The code for our paper Towards Alleviating the Object Bias in Prompt Tuning-based Factual Knowledge Extraction will be released soon.
